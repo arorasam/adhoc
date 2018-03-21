@@ -1,0 +1,3 @@
+﻿  StringAllSubsequences.cpp
+c:\users\sarora\source\repos\codingblocks\codingblocks\stringallsubsequences.cpp(19): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+  CodingBlocks.vcxproj -> C:\Users\sarora\source\repos\CodingBlocks\Debug\CodingBlocks.exe
